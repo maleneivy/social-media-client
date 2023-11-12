@@ -4,8 +4,6 @@ This is a course assignment I had at Noroff. The goal is to improve quality of a
 
 ## Badges
 
-[![Deploy static content to Pages](https://github.com/maleneivy/social-media-client/actions/workflows/static.yml/badge.svg)](https://github.com/maleneivy/social-media-client/actions/workflows/static.yml)
-
 ## Install
 
 1. Open terminal and clone repo
