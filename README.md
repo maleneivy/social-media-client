@@ -3,7 +3,11 @@
 This is a course assignment I had at Noroff. The goal is to improve quality of a package by establishing helpful workflows that make the development process more efficient.
 
 ## Badges
+[![Code Review](https://github.com/maleneivy/social-media-client/actions/workflows/gpt.yml/badge.svg)](https://github.com/maleneivy/social-media-client/actions/workflows/gpt.yml)
 
+[![Automated Unit Testing](https://github.com/maleneivy/social-media-client/actions/workflows/unit-test.yml/badge.svg)](https://github.com/maleneivy/social-media-client/actions/workflows/unit-test.yml)
+
+[![Automated E2E Testing](https://github.com/maleneivy/social-media-client/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/maleneivy/social-media-client/actions/workflows/e2e-test.yml)
 ## Install
 
 1. Open terminal and clone repo
